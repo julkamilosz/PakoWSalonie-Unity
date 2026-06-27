@@ -2,14 +2,10 @@
 
 Projekt własny (WIP) realizowany samodzielnie jako Solo Developer. 
 Gra skupia się na minigrach logiczno-edukacyjnych dla najmłodszych, łącząc kod, autorską grafikę 2D oraz dźwięk.
+## 🎮 Zagraj
+👉 **https://julkamilosz.itch.io/pako-w-salonie**
 
-## Kluczowe cechy techniczne:
-* Architektura oparta na wzorcu Singleton (zarządzanie pauzą i stanami)
-* Logika Drag & Drop UI (IDragHandler, IEndDragHandler)
-* Dynamiczny, inteligentny system audio chroniący przed nakładaniem się linii lektorskich
-* System zapisu postępów oparty o PlayerPrefs
-
-## Technologie:
+## 🛠️ Technologie:
 * Unity & C#
 * GIMP (ręcznie rysowane assety graficzne)
 * Generative AI Workflow (generowanie i czyszczenie audio)
@@ -20,3 +16,12 @@ Gra skupia się na minigrach logiczno-edukacyjnych dla najmłodszych, łącząc 
 * **Interdyscyplinarny Pipeline (Solo Dev):** Samodzielne przygotowanie 100% assetów do gry – od koncepcji mechaniki, przez ręczne tworzenie i eksport grafiki 2D (GIMP), aż po inżynierię promptów i czyszczenie ścieżek audio wygenerowanych za pomocą narzędzi AI.
 * **Dynamiczny System Audio i Narracji:** Zaprogramowanie inteligentnego managera audio sterującego odtwarzaniem linii lektorskich (narratora), zawierającego funkcje automatycznego wyciszania innych źródeł dźwięku (AudioSource) w celu uniknięcia nakładania się ścieżek głosowych oraz mechanizm wyciszania globalnego (AudioListener).
 * **Zapis Stanu Gry (Persistence):** Implementacja prostego systemu zapisu postępów i odblokowywania mebli-zadań za pomocą PlayerPrefs.
+
+## 📈 Kluczowe cechy techniczne:
+* Architektura oparta na wzorcu Singleton (zarządzanie pauzą i stanami)
+* Logika Drag & Drop UI (IDragHandler, IEndDragHandler)
+* Dynamiczny, inteligentny system audio chroniący przed nakładaniem się linii lektorskich
+* System zapisu postępów oparty o PlayerPrefs
+
+## 📜 Autor
+* **Julia Miłosz** - Game Designer & Gameplay Programmer
